@@ -1,3 +1,2 @@
 # pool
-##Class learning excercise 
-A pool physics demonstration game.
+In-Class Learning Excercise: A pool physics demonstration game.
